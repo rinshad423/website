@@ -1,0 +1,106 @@
+ 
+  body {
+    width: 100%; 
+    height: 100vh;
+    background-image: url(bgimg.jpg);
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    overflow-x: hidden; 
+   
+  }
+  
+  .hello1 {
+    background-color: white;
+    width: 1362px;
+    height: 56px;
+    position: relative;
+    top: -23px;
+    left: -20px;
+  }
+  
+  .hello1 h1 {
+    position: relative;
+    top: 16px;
+    left: 65px;
+  }
+  
+  .hello2 {
+    font-size: 20px;
+    position: absolute;
+    top: 20px;
+    left: 528px;
+    
+  }
+  .hello2 a{
+    margin:30px ;
+  }
+  .hello3 button {
+    width: 160px;
+    height: 29px;
+    position: absolute;
+    top: 17px;
+    left: 1139px;
+    background-color: orange;
+    border-radius: 7px;
+  }
+  
+  
+  .hello4 h1 {
+    position: absolute;
+    top: 222px;
+    left: 188px;
+  }
+  
+  .hello5 p {
+    position: absolute;
+    top: 309px;
+    left: 186px;
+  }
+  
+  .hello6 button {
+    border-radius: 5px;
+    width: 116px;
+    height: 29px;
+    position: relative;
+    top:310px;
+    left: 182px;
+    background-color: orange;
+  }
+  
+  .hello7 button {
+    border-radius: 5px;
+    position: relative;
+    top: 281px;
+    left: 317px;
+    width: 116px;
+    height: 29px;
+    background-color: white;
+    color: black;
+  }
+  
+  .hello8 {
+    position: relative;
+    top: 481px;
+    left: -9px;
+    background-color: white;
+    width:1351px;
+    height: 141px;
+  }
+  
+  .hello8 h2 {
+    position: relative;
+    top:81px;
+    left:270px;
+  }
+  
+  .hello9 h2 {
+    position: relative;
+    top: 402px;
+    left:850px;
+  }
+  .hello2 a{
+    text-decoration: none;
+  }
